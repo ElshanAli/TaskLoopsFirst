@@ -1,0 +1,14 @@
+D:\This PC\TaskLoops\TaskLoops\bin\Debug\netcoreapp3.1\TaskLoops.exe
+D:\This PC\TaskLoops\TaskLoops\bin\Debug\netcoreapp3.1\TaskLoops.deps.json
+D:\This PC\TaskLoops\TaskLoops\bin\Debug\netcoreapp3.1\TaskLoops.runtimeconfig.json
+D:\This PC\TaskLoops\TaskLoops\bin\Debug\netcoreapp3.1\TaskLoops.runtimeconfig.dev.json
+D:\This PC\TaskLoops\TaskLoops\bin\Debug\netcoreapp3.1\TaskLoops.dll
+D:\This PC\TaskLoops\TaskLoops\bin\Debug\netcoreapp3.1\TaskLoops.pdb
+D:\This PC\TaskLoops\TaskLoops\obj\Debug\netcoreapp3.1\TaskLoops.csproj.AssemblyReference.cache
+D:\This PC\TaskLoops\TaskLoops\obj\Debug\netcoreapp3.1\TaskLoops.GeneratedMSBuildEditorConfig.editorconfig
+D:\This PC\TaskLoops\TaskLoops\obj\Debug\netcoreapp3.1\TaskLoops.AssemblyInfoInputs.cache
+D:\This PC\TaskLoops\TaskLoops\obj\Debug\netcoreapp3.1\TaskLoops.AssemblyInfo.cs
+D:\This PC\TaskLoops\TaskLoops\obj\Debug\netcoreapp3.1\TaskLoops.csproj.CoreCompileInputs.cache
+D:\This PC\TaskLoops\TaskLoops\obj\Debug\netcoreapp3.1\TaskLoops.dll
+D:\This PC\TaskLoops\TaskLoops\obj\Debug\netcoreapp3.1\TaskLoops.pdb
+D:\This PC\TaskLoops\TaskLoops\obj\Debug\netcoreapp3.1\TaskLoops.genruntimeconfig.cache
